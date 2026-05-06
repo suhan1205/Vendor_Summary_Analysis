@@ -3,11 +3,11 @@ An end-to-end EDA on a liquor inventory database with 12M+ sales records. Analyz
 
 ## 📁 Additional Resources
 
-The following files are too large to host on GitHub and are available via Google Drive:
+The following files are too large to host on GitHub:
 
 | File | Description |
 |------|-------------|
 | `inventory.db` | SQLite database (2GB) containing all 6 tables — purchases, sales, inventory, pricing & invoices |
 | `REPORT.docx` | Full analysis report with charts, insights, and recommendations |
 
-🔗 [Download from Google Drive](https://drive.google.com/drive/folders/1Yt4gWgStiAISJo2l-nZyU_uIKQpoM7c4?usp=share_link)
+🔗 [View on Google Drive](https://drive.google.com/drive/folders/1Yt4gWgStiAISJo2l-nZyU_uIKQpoM7c4?usp=share_link)
